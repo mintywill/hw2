@@ -1,0 +1,10 @@
+function setup() {
+  createCanvas(340, 340);
+}
+
+
+function draw() {
+  colorMode(HSB)
+  stroke(30, random(100),random(100))
+  line(random(width), random(height), random(width), random(height));
+}
