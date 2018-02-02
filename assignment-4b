@@ -1,7 +1,4 @@
-
-
-
-
+// #1 three colors, simple, balanced
 
 background(255, 252, 237)
 
@@ -16,3 +13,4 @@ rect(110, 150, 160, 130);
 fill(142, 179, 254)
 noStroke()
 triangle(188, 200, 248, 70, 290, 168);
+
